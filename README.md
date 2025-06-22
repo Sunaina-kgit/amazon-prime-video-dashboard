@@ -16,7 +16,7 @@ The dataset spans from **1920 to 2021** and covers **9,651 titles** with various
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard-screenshot.png)
+https://github.com/Sunaina-kgit/amazon-prime-video-dashboard/blob/main/Amazon%20Dashboard%20Image.png
 
 ## 📂 File Structure
 
