@@ -59,10 +59,6 @@ https://github.com/Sunaina-kgit/amazon-prime-video-dashboard/blob/main/Amazon%20
 - Connect to a live dataset
 - Embed in Power BI Service
   
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 🙋‍♀️ Author
 
 **Sunaina**  
